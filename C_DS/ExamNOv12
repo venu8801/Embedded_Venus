@@ -1,0 +1,4 @@
+void str_descend(char *str)
+{
+	int i, j;
+	for(i = 0; str[i]!= '\0'; )
